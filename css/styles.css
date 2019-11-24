@@ -1,3 +1,10 @@
-img {
-  display: none;
+.walrus-showing {
+  display: inherit;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
 }
