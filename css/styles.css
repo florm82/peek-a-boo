@@ -1,10 +1,16 @@
-.walrus-showing {
-  display: inherit;
-}
-.clickable:hover {
-  text-decoration: underline;
+#walrus-slideIn {
+  display: none ;
 }
 .clickable {
   cursor: pointer;
   color: #0088cc;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
+p {
+  text-align: center;
+}
+h1 {
+  text-align: center;
 }
